@@ -11,6 +11,7 @@ The dataset can be found here: https://archive.ics.uci.edu/ml/datasets/diabetes+
 # Methods Used
 * Inferential Statistics
 * Hypothesis Testing
+* Data cleaning and manipulation
 * Data Visualization
 * Data Analysis
 * Machine learning models
